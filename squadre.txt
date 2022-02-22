@@ -1,0 +1,300 @@
+            bologna			
+	    <br>Modulo:3-5-2
+            <br><b>BOLOGNA</b>
+            <br>SKORUPSKI 28
+            <br>SOUMAORO 5
+            <br>MEDEL 17
+            <br>THEATE 6
+            <br> KASIUS 71
+            <br>SCHOUTEN 30
+            <br>SVANBERG 32
+            <br>SORIANO 21
+            <br>HICKEY 3
+            <br>ORSOLINI 7
+            <br>ARNAUTOVIC 9
+			
+		lazio
+         <br>Modulo:4-3-3
+         <br><b>LAZIO</b>
+         <br> STRAKOSHA 1
+         <br>HYSAJ 23
+         <br>LUIZ FELIPE 3
+         <br>PATRIC 4
+         <br>MARUSIC 77
+         <br>MILINKOVIC SAVIC 21
+         <br>CATALDI 32
+         <br>LUIS ALBERTO 10
+         <br>PEDRO 9
+         <br>IMMOBILE 17
+         <br>ZACCAGNI 20
+
+		napoli
+            <br>Modulo:4-2-3-1
+            <br><b>NAPOLI</b>
+            <br>OSPINA 25
+            <br>DI LORENZO 22
+            <br>RRAHMANI 13
+            <br>KOULIBALI 26
+            <br> MARIO RUI 6
+            <br>LOBOTKA 68
+            <br>FABIAN RUIZ 6
+            <br>POLITANO 21
+            <br>ZIELINSKI 20
+            <br>INSIGNE 24
+            <br>OSHIMEN 9  
+
+		inter
+            <br>Modulo:3-5-2
+            <br><b>INTER</b>
+            <br>HANDANOVIC 1
+            <br>SKRINIAR 37
+            <br>DE VRIJ 6
+            <br>DI MARCO 32
+            <br>DUMFRIES 2
+            <br>BARELLA 23
+            <br>BROZOVIC 77
+            <br>CHALANOGLU 20
+            <br>PERISIC 14
+            <br>DZEKO 9
+            <br>LAUTARO 10
+
+		torino
+            <br>Modulo:3-4-2-1
+            <br><b>TORINO</b>
+            <br>MILINKOVIC 32
+            <br>ZIMA 6
+            <br>BREMER 3
+            <br>RODRIGUEZ 13
+            <br>SINGO 17
+            <br>RICCI 28
+            <br>POBEGA 4
+            <br>VOJVODA 27
+            <br>PJACA 11
+            <br>BREKALO 14
+            <br>SANABRA 19 
+		
+		venezia
+            <br>Modulo:4-3-3
+            <br><b>VENEZIA</b>
+            <br>LEZZERINI 12
+            <br>AMPADU 44
+            <br>CALDARA 31
+            <br>MODOLO 13
+            <br>MOLINARO 3
+            <br>TESSMANN 8
+            <br>CRINIGOJ 33
+            <br>CUISANCE 21
+            <br>ARAMU 10
+            <br>HENRY 14
+            <br>OKEREKE 77
+
+		milan
+            <br>Modulo:4-2-3-1
+            <br><b>MILAN</b>
+            <br>MAIGNAN 16
+            <br>FLORENZI 25
+            <br>TOMORI 23
+            <br>ROMAGNOLI 13
+            <br>CALABRIA 2
+            <br>TONALI 8
+            <br>KESSIE 79
+            <br>SAELEMAEKERS 56
+            <br>DIAZ 10
+            <br>LEAO 17
+            <br>GIROUD 9   
+
+		sampdoria
+            <br>Modulo:4-3-2-1
+            <br><b>SAMPDORIA</b>
+            <br>AUDERO 1
+            <br>BERESZYNSKI 24
+            <br>FERRARI 25
+            <br>COLLEY 15
+            <br>MURRU 29
+            <br>SENSI 5
+            <br>THORSBY 2
+            <br>EKDAL 6
+            <br>CANDREVA 87
+            <br>GIOVINCO 21
+            <br>CAPUTO 10
+
+		empoli
+            <br>Modulo:4-3-2-1
+            <br><b>EMPOLI</b>
+            <br>VICARIO 13
+            <br>STOJANOVIC 30
+            <br>ROMAGNOLI 6
+            <br>VITI 42
+            <br>PARISI 65
+            <br>ZURKOWSKI 27
+            <br>ASLANNI 23
+            <br>BANDINELLI 25
+            <br>CUTRONE 9
+            <br>BAJRAMI 10
+            <br>PINAMONTI 99 
+
+		cagliari
+            <br>Modulo:3-5-2
+            <br><b>CAGLIARI</b>
+            <br>CRAGNO 28
+            <br>GOLDANIGA 3
+            <br>LOVATO 66
+            <br>CARBONI 44
+            <br>BELLANOVA 12
+            <br>MARIN 8
+            <br>GRASSI 27
+            <br>DALBERT 29
+            <br>LYKOGIANNIS 22
+            <br>PEREIRO 20
+            <br>JOAO PEDRO 10
+
+		genoa
+            <br>Modulo:4-2-3-1
+            <br><b>GENOA</b>
+            <br>SIRIGU 57
+            <br>HEFTI 36
+            <br>MAKSIMOVIC 52
+            <br>VASQUEZ 15
+            <br>CRISCITO 4
+            <br>ROVELLA 65
+            <br>STURARO 27
+            <br>EKUBAN 20
+            <br>AMIRI 8
+            <br>YEBOAH 45
+            <br>PICCOLI 9   
+
+		salernitana
+            <br>Modulo:4-3-2-1
+            <br><b>SALERNITANA</b>
+            <br>SEPE 55
+            <br>MAZZOCCHI 30
+            <br>DRAGUSIN 25
+            <br>FAZIO 17
+            <br>RANIERI 19
+            <br>EDERSON 13
+            <br>RADOVANOVIC 16
+            <br>COULIBALY 18
+            <br>VERDI 10
+            <br>RIBERY 7
+            <br>DJURIC 11
+		verona
+            <br>Modulo:3-4-2-1
+            <br><b>VERONA</b>
+            <br>MONTIPO 96
+            <br>CASALE 16
+            <br>GUNTER 21
+            <br>CECCHERINI 17
+            <br>FARAONI 5
+            <br>TAMEZE 61
+            <br>VELOSO 4
+            <br>LAZOVIC 8
+            <br>BARAK 7
+            <br>LASAGNA 11
+            <br>SIMEONE 99  
+		udinese
+            <br>Modulo:3-5-2
+            <br><b>UDINESE</b>
+            <br>SILVESTRI 1
+            <br>BECAO 50
+            <br>PABLO MARI 22
+            <br>ZEEGELAAR 4
+            <br>MOLINA 16
+            <br>WALACE 11
+            <br>JAJALO 8
+            <br>MAKENGO 6
+            <br>UDOGIE 13
+            <br>DEULOFEU 10
+            <br>BETO 9
+		
+		sassuolo
+            <br>Modulo:4-3-3
+            <br><b>SASSUOLO</b>
+            <br>CONSIGLI 47
+            <br>MULDUR 17
+            <br>CHIRICHES 21
+            <br>FERRARI 13
+            <br>ROGERIO 6
+            <br>FRATTESI 16
+            <br>LOPEZ 8
+            <br>HENRIQUE 97
+            <br>BERARDI 25
+            <br>DEFREL 92
+            <br>TRAORE 23
+
+		roma
+            <br>Modulo:3-4-1-2
+            <br><b>ROMA</b>
+            <br>RUI PATRICIO 1
+            <br>MANCINI 23
+            <br>SMALLING 6
+            <br>KUMBULLA 24
+            <br>MAITLAND-NILES 15
+            <br>PELLEGRINI 7
+            <br>OLIVEIRA 27
+            <br>CRISTANTE 4
+            <br>VINA 5
+            <br>MKHITARYAN 77
+            <br>ABRAHAM 24
+
+		atalanta
+            <br>Modulo:3-4-1-2
+            <br><b>ATALANTA</b>
+            <BR>ROSSI 31
+            <BR>TOLOI 2
+            <BR>DEMIRAL 28
+            <BR>DJIMSITI 19
+            <BR>ZAPPACOSTA 77
+            <BR>DE ROON 15
+            <BR>FREULER 11
+            <BR>MAEHLE 3
+            <BR>PESSINA 32
+            <BR>MALINOVSKYI 18
+            <BR>MURIEL 9
+
+		juve
+            <br>Modulo:4-3-2-1
+            <br><b>JUVENTUS</b>
+            <br>SZCZESNY 1
+            <br>DANILO 6
+            <br>BONUCCI 19
+            <br>DE LIGT 4
+            <br>DE SCIGLIO 2
+            <br>ZAKARIA 28
+            <br>LOCATELLI 27
+            <br>CUADRADO 11
+            <br>DYBALA 10
+            <br>MCKENNIE 14
+            <br>VLAHOVIC 7
+
+		spezia
+            <br>Modulo:4-2-3-1
+            <br><b>SPEZIA</b>
+            <br>PROVEDEL 94
+            <br>AMIAN 27
+            <br>ERLIC 28
+            <br>NIKOLAOU 43
+            <br>RECA 13
+            <br>KIWIOR 14
+            <br>SALA 7
+            <br>GYASI 11
+            <br>MAGGIORE 25
+            <br>VERDE 10
+            <br>MANAJ 9
+
+		fiorentina
+            <br>Modulo:4-3-2-1
+	    <br><b>FIORENTINA</b>
+            <br>TERRACCIANO 1
+            <br>ODRIOZOLA 29
+            <br>MILENKOVIC 4
+            <br>MARTINEZ QUARTA 2
+            <br>BIRAGHI 3
+            <br>CASTROVILLI 10
+            <br>AMRABAT 34
+            <br>MALEH 14
+            <br>IKONÉ 11
+            <br>CABRAL 91
+            <br>GONZALEZ 22
+
+
+
